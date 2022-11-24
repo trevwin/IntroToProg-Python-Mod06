@@ -1,0 +1,2 @@
+Walk,High
+cook,high
